@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "W4", "W4\W4.csproj", "{9556DD95-2096-41F8-BF69-786C23FB4BD4}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "ellips3d", "ellips3d\ellips3d.vdproj", "{26C3DAAA-BD39-46F6-B294-C224879181C8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9556DD95-2096-41F8-BF69-786C23FB4BD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9556DD95-2096-41F8-BF69-786C23FB4BD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9556DD95-2096-41F8-BF69-786C23FB4BD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9556DD95-2096-41F8-BF69-786C23FB4BD4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{26C3DAAA-BD39-46F6-B294-C224879181C8}.Debug|Any CPU.ActiveCfg = Debug
+		{26C3DAAA-BD39-46F6-B294-C224879181C8}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CE19AE0F-9D52-4007-88A7-6C413C69394C}
+	EndGlobalSection
+EndGlobal

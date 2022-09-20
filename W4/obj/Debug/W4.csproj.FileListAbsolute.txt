@@ -1,0 +1,32 @@
+C:\Users\329193-2\source\repos\W4\W4\bin\Debug\W4.exe.config
+C:\Users\329193-2\source\repos\W4\W4\bin\Debug\W4.exe
+C:\Users\329193-2\source\repos\W4\W4\bin\Debug\W4.pdb
+C:\Users\329193-2\source\repos\W4\W4\obj\Debug\W4.csprojAssemblyReference.cache
+C:\Users\329193-2\source\repos\W4\W4\obj\Debug\W4.Form1.resources
+C:\Users\329193-2\source\repos\W4\W4\obj\Debug\W4.Properties.Resources.resources
+C:\Users\329193-2\source\repos\W4\W4\obj\Debug\W4.csproj.GenerateResource.cache
+C:\Users\329193-2\source\repos\W4\W4\obj\Debug\W4.csproj.CoreCompileInputs.cache
+C:\Users\329193-2\source\repos\W4\W4\obj\Debug\W4.exe
+C:\Users\329193-2\source\repos\W4\W4\obj\Debug\W4.pdb
+D:\дз\3 курс\УП 01.01\4\W4\W4\bin\Debug\W4.exe.config
+D:\дз\3 курс\УП 01.01\4\W4\W4\bin\Debug\W4.exe
+D:\дз\3 курс\УП 01.01\4\W4\W4\bin\Debug\W4.pdb
+D:\дз\3 курс\УП 01.01\4\W4\W4\obj\Debug\W4.csproj.AssemblyReference.cache
+D:\дз\3 курс\УП 01.01\4\W4\W4\obj\Debug\W4.Form1.resources
+D:\дз\3 курс\УП 01.01\4\W4\W4\obj\Debug\W4.Properties.Resources.resources
+D:\дз\3 курс\УП 01.01\4\W4\W4\obj\Debug\W4.csproj.GenerateResource.cache
+D:\дз\3 курс\УП 01.01\4\W4\W4\obj\Debug\W4.csproj.CoreCompileInputs.cache
+D:\дз\3 курс\УП 01.01\4\W4\W4\obj\Debug\W4.exe
+D:\дз\3 курс\УП 01.01\4\W4\W4\obj\Debug\W4.pdb
+D:\дз\3 курс\УП 01.01\4\W4\W4\obj\Debug\W4.Form2.resources
+E:\дз\3 курс\УП 01.01\4\W4\W4\bin\Debug\W4.exe.config
+E:\дз\3 курс\УП 01.01\4\W4\W4\bin\Debug\W4.exe
+E:\дз\3 курс\УП 01.01\4\W4\W4\bin\Debug\W4.pdb
+E:\дз\3 курс\УП 01.01\4\W4\W4\obj\Debug\W4.csprojAssemblyReference.cache
+E:\дз\3 курс\УП 01.01\4\W4\W4\obj\Debug\W4.Form1.resources
+E:\дз\3 курс\УП 01.01\4\W4\W4\obj\Debug\W4.Form2.resources
+E:\дз\3 курс\УП 01.01\4\W4\W4\obj\Debug\W4.Properties.Resources.resources
+E:\дз\3 курс\УП 01.01\4\W4\W4\obj\Debug\W4.csproj.GenerateResource.cache
+E:\дз\3 курс\УП 01.01\4\W4\W4\obj\Debug\W4.csproj.CoreCompileInputs.cache
+E:\дз\3 курс\УП 01.01\4\W4\W4\obj\Debug\W4.exe
+E:\дз\3 курс\УП 01.01\4\W4\W4\obj\Debug\W4.pdb
